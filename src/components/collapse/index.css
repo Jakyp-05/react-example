@@ -1,0 +1,11 @@
+.collapse {
+    display: flex;
+}
+
+.collapse-date {
+    width: 300px;
+}
+
+.collapse-input {
+    width: 100%;
+}

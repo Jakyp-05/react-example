@@ -1,0 +1,13 @@
+    .icon {
+        width: 56px;
+        height: 56px;
+        box-sizing: border-box;
+        padding: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color: aliceblue;
+    }
+
+    .active {
+        background-color: #FA9E31;
+    }
